@@ -1,5 +1,8 @@
 // // 50.0657° N, 5.7132° W
 // // 58.6373° N, 3.0689° W
+
+console.log("app.js checked");
+
 var map,
   flightPath,
   distanceTravelledMarker = 0;
